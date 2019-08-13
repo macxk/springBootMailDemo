@@ -1,0 +1,8 @@
+
+spring:
+  mail:
+    host: smtp.163.com
+    port: 25
+    username: xiekun132@163.com
+    password: xk3370107
+
